@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGbMdX6A6xMjsvDKG5C8UyM921OhHo/IBI13IBdlYx+lxpC7QcxIv4fUs8ZJRpr3wDnIIJj34sExP3vr4VIGvA==",
+  "success": true,
+  "projectFilePath": "/home/mirzakhan/source/repos/drafts/AspNetSecureApp/AspNetSecureApp.csproj",
+  "expectedPackageFiles": [
+    "/home/mirzakhan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/mirzakhan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/mirzakhan/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.29/microsoft.netcore.app.host.linux-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
